@@ -1,4 +1,6 @@
 body {
     text-align: center;
-    font-family: Ubuntu, Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    color: gray;
+    text-decoration-color: white;
 }
