@@ -1,4 +1,13 @@
 body {
     text-align: center;
-    font-family: Ubuntu, Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
 }
