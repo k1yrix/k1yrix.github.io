@@ -1,3 +1,4 @@
-### | [Home][d1] | TBA | TBA | TBA |
+### | [Home][d1] | About me[d2] | TBA | TBA |
 
-[d1]: https://k1yrix.github.io
+[d1]: /index.html
+[d2]: /pages/aboutMe.html
