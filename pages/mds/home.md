@@ -2,7 +2,7 @@
 Apparently I'm rewriting my website after not touching this repo for so long. If you see this, then that means it's working.
 
 # I had a Carrd site before
-Yes. Before this, I was well deep into Carrd, with all the customizationa and ease of use out of the box. 
+Yes. Before this, I was well deep into Carrd, with all the customizations and ease of use out of the box. 
 
 ## Why this over Carrd now?
 Well I have changed, and since then, I needed to move on and learn something new, so I decided to create one from scratch. (mostly, I cheated on some aspects through) I want to be very freelancing over what I want to put, and I have a lot of freedom writing whatever the heck I want.
