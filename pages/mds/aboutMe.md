@@ -33,8 +33,8 @@
 - Former Voice Actor (Contractor) @ Monolite Interactive (06/16/24 - 12/01/24)
 - Moderator then Administrator for Automated Transit Studio (since TBA date)
 
-[^1]: The shutdown has relapsed twice: Both of which were due to the result of development shutdown.
-[^2]: The reason behind the archival was due to the indefinite shutdown of Nova altogther.
-[^3]: Unknown current status as of 12/06/24 due to low activity
+ [^1]: The shutdown has relapsed twice: Both of which were due to the result of development shutdown.
+ [^2]: The reason behind the archival was due to the indefinite shutdown of Nova altogther.
+ [^3]: Unknown current status as of 12/06/24 due to low activity
 
 ---
