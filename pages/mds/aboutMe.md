@@ -35,7 +35,7 @@
 
 ---
 
-# Footnotes
+## Footnotes
 *The shutdown has relapsed twice: Both of which were due to the result of development shutdown.
 **The reason behind the archival was due to the indefinite shutdown of Nova altogther.
 ***Unknown current status as of 12/06/24 due to low activity
