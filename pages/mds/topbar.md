@@ -1,3 +1,3 @@
-<div class="nav">
- | <h3 href="../../index.html">Home</h3> | <h3>TBA</h3> | <h3>TBA</h3> | <h3>TBA</h3> | <h3>TBA</h3> |
-</div>
+### | [Home][d1] | TBA | TBA | TBA |
+
+[d1]: https://k1yrix.github.io
