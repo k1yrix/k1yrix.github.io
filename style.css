@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
   --background: #26101f;
   --main: #281d35;
@@ -13,7 +15,7 @@
 }
 
 body {
-  font-family: "Noto Sans", Helvetica, sans-serif;
+  font-family: "Montserrat", "Noto Sans", Helvetica, sans-serif;
   background-color: var(--background);
   color: var(--text);
   margin: 32px;
