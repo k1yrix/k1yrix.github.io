@@ -28,5 +28,5 @@ This is currently:
 Take a look at how I wrote this website [here](https://github.com/k1yrix/k1yrix.github.io).
 
 ## Credits
-- [0hStormy](https://github.com/0hStormy) - CSS base (MIT permissible)
+- [0hStormy](https://github.com/0hStormy) - CSS base (MIT permissible via [SoberDocs](https://github.com/soberdocs/soberdocs.github.io))
 - [md-block](https://md-block.verou.me/) - Making MD in HTML possible
