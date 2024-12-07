@@ -9,10 +9,10 @@ Well I have changed, and since then, I needed to move on and learn something new
 
 Even though Carrd is really nice, I just want to do whatever I want to here.
 
-## ...and yes I had a Google Site before
+### ...and yes I had a Google Site before
 ...but ever since, the first edition of my website is LONG GONE now.
 
-## My old Carrd site
+### My old Carrd site
 If you do want to dig through it however, it's right [here](https://kirbix12.carrd.co).
 
 # Site verison and Code
