@@ -15,9 +15,17 @@ Even though Carrd is really nice, I just want to do whatever I want to here.
 ### My old Carrd site
 If you do want to dig through it however, it's right [here](https://kirbix12.carrd.co).
 
-# Site verison and Code
+---
+
+# Some other mentions
+
+## Version
 This is currently:
 - Version 1.0 on GitHub
 - Version 3.0 overall
 
+## Source code
 Take a look at how I wrote this website [here](https://github.com/k1yrix/k1yrix.github.io).
+
+## Credits
+- [0hStormy](https://github.com/0hStormy) - CSS base
