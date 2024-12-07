@@ -3,7 +3,7 @@
 ---
 
 ## A description
-I'm just a literaly 16 year old living out life as a tech nerd. Yeah, I know a lot about computers and basically tech in general. I have a tedency to mess around with computers almost every time I get my hands on one. (especially ones that look so new or it contains a gaming card) I have a junior certification with CompTIA's TestOut. I know a lot to the fact I don't have one siders. Whether if you talk about Android or Apple, Windows or Linux, or whatever that comes blasting into my face, <u>I can handle it</u>.
+I'm just a literal 16 year old living out life as a tech nerd. Yeah, I know a lot about computers and basically tech in general. I have a tedency to mess around with computers almost every time I get my hands on one. (especially ones that look so new or it contains a gaming card) I have a junior certification with CompTIA's TestOut. I know a lot to the fact I don't have one siders. Whether if you talk about Android or Apple, Windows or Linux, or whatever that comes blasting into my face, <u>I can handle it</u>.
 
 I started my gaming journey when I first signed up for Roblox back in April 2016. (and I still maintain my original account for over 8 years now!) After pandemic, I started to touch into other game platforms like Steam and Epic Games where I began branching out of Roblox as time goes on. I develop games on Roblox independently and I do a lot of things myself. (~~unfortunately the lack of motivation a lot of times can kill me~~) Ever since Roblox began developing problems since the pandemic, I have since distanced myself a bit to play other games I have interest in: Team Fortress 2, Counter Strike, and StarCraft to name a few.
 
