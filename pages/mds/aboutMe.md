@@ -5,7 +5,7 @@
 ## Here are some interesting facts about me:
 - I live in the US
 - I am a legit 8+ year Roblox player
-- In terms of pronouns, you can call me anything, I don't me
+- In terms of pronouns, you can call me anything, I don't mind
 - Later to be trans girl (maybe)
 - I am a terrible voice actor (somewhat because I hate my own voice lmao)
 - A certified tech nerd
