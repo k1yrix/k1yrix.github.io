@@ -38,8 +38,10 @@ Around 2024 is when things have changed, as I try to expand into learning Lua(u)
 - Founder and lead reporter of "The Potato Times"
 - Founder, independent lead developer of the PTA Alternate Reality project
 - Content Moderator then Administrator @ Stepford County Railway Wiki (since 05/23/24)
-- Former Voice Actor (Contractor) @ Monolite Interactive (06/16/24 - 12/01/24)
+- Former Voice Actor (Contractor) @ Monolite Interactive (06/16/24 - 12/01/24) [[[well we didn't do much anyways so...]]]
 - Moderator then Administrator for Automated Transit Studio (since TBA date)
+- Server Moderator ("Upper Management") @ Monolite Interactive (since 12/01/24)
+- Trial Moderator @ British Railway Wiki (since 01/03/25)
 
 ---
 
