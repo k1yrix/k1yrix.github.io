@@ -11,7 +11,20 @@ I have a growing fond of being a distant train transportation enjoyer, especiall
 Chicago was an interesting one. The space regarding CTA on Roblox was relatively small before its growth in 2023. I only gained interest after a vacation trip to Chicago in 2022. After the trip, I looked into any CTA games on Roblox and found the now classic [Red Line Simulator](https://www.roblox.com/games/6102248988) and then [Hollis' Blue Line](https://www.roblox.com/games/6458393580). I joined the surround community since then and have been one of the promenent members for CTA Roblox Community.<br>
 I entered the British sector around 2016 or 2017 when [Grand Continential Railways](https://www.roblox.com/games/361547354/GCR-Grand-Continental-Railways) rolled around. The interest risen in 2020 with [Stepford County Railway](https://www.roblox.com/games/696347899/V2-0-Stepford-County-Railway), and I still oversaw the growth it has reached today. (I still remember playing the 1.4 era) It was enough interest to the fact I have taken interest of its unofficial wiki. I still commit myself to the wiki today as an Administrator.
 
-Around 2024 is when things have changed, as I try to expand into learning Lua(u), C++, HTML, CADding, and more hoping to apply those skills...somewhere, with the possibility of Java coming up within the next year. In fact, one of those skills are applied towards the creation of this site! 
+Around 2024 is when things have changed, as I try to expand into learning Lua(u), C++, HTML, CADding, and more hoping to apply those skills...somewhere, with the possibility of Java coming up within the next year. In fact, one of those skills are applied towards the creation of this site!
+
+### Here's something even more interesting
+I run three unofficial sports accounts on Bluesky, and there are a few reasons for that:
+- They're not on the platform
+- They <i>are<i> on the platform, but are neglecting to post anything
+- Same as point two, but they abanonded the account
+
+With the crazy neglect, I decided to start them as soon as I got used to Bluesky.
+
+The accounts I run are:
+- [@notdetroitredwings.bsky.social](https://bsky.app/notdetroitredwings) (Detroit Red Wings, 410 followers)
+- [@notnyrangers](https://bsky.app/notnyrangers) (New York Rangers, 141 followers)
+- [@nottigers](https://bsky.app/nottigers) (Detroit Tigers, coming soon)
 
 ---
 
