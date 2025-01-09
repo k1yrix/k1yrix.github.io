@@ -29,7 +29,7 @@ The accounts I run are:
 ---
 
 ## Here are some other interesting facts about me:
-- In terms of pronouns, you can call me anything, I don't mind
+- In terms of pronouns, you can call me anything (preference she/they), I don't mind
 - Later to be trans girl (maybe)
 - I am a terrible voice actor (somewhat because I hate my own voice lmao)
 - I have a relatively small channel, but a decent one in fact, with <b>388 subscribers</b> with a collective <b>186.4K+ views</b>. (as of 12/06/24)
@@ -40,13 +40,15 @@ The accounts I run are:
 - Likes to recite New York City Subway NTT announcements (plus its fictional based derivatives)
 - Likes to make New York City Subway style Electronic Strip Maps, FIND Displays, and much more.
 
+<b>Yes I am a firm believer and ally of LGTBQ+.</b> If you don't agree with me, then <b>don't talk to me...</b>
+
 ---
 
 ## My online occupations (current and former)
 - Former Network Planner & Contributor @ SCR Realism Project (11/Unknown/22 - 1/24/23)
 - Former Media Department Personnel @ Nova Incorporated (3/28/23 - 8/02/23 and formerly 1/12/23 - 2/27/23*)
 - Founder & Repo Lead of the former North Shore Mountains Research Site Stock Photography Project (opened since 4/21/23, archived since 8/21/23**)
-- Staff Coordinator then VP of Human Resources @ Softwire Community Server/CTA Roblox Group (since 06/13/23)
+- (To be former) Staff Coordinator then VP of Human Resources @ Softwire Community Server/CTA Roblox Group (since 06/13/23)
 - (Former?***) Voice Actor/Lorewriter/Contributor @ Solarium Development (since 07/20/23)
 - Founder and lead reporter of "The Potato Times"
 - Founder, independent lead developer of the PTA Alternate Reality project
@@ -59,6 +61,6 @@ The accounts I run are:
 ---
 
 ## Footnotes
-*The shutdown has relapsed twice: Both of which were due to the result of development shutdown.
-**The reason behind the archival was due to the indefinite shutdown of Nova altogther.
-***Unknown current status as of 12/06/24 due to low activity
+*The shutdown has relapsed twice: Both of which were due to the result of development shutdown.<br>
+**The reason behind the archival was due to the indefinite shutdown of Nova altogther.<br>
+***Unknown current status as of 12/06/24 due to low activity<br>
