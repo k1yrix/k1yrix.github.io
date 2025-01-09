@@ -22,9 +22,9 @@ I run three unofficial sports accounts on Bluesky, and there are a few reasons f
 With the crazy neglect, I decided to start them as soon as I got used to Bluesky.
 
 The accounts I run are:
-- [@notdetroitredwings.bsky.social](https://bsky.app/notdetroitredwings) (Detroit Red Wings, 443 followers)
-- [@notnyrangers](https://bsky.app/notnyrangers) (New York Rangers, 211 followers)
-- [@nottigers](https://bsky.app/nottigers) (Detroit Tigers, coming soon)
+- [@notdetroitredwings.bsky.social](https://bsky.app/profile/notdetroitredwings) (Detroit Red Wings, 443 followers)
+- [@notnyrangers](https://bsky.app/profile/notnyrangers) (New York Rangers, 211 followers)
+- [@nottigers](https://bsky.app/profile/nottigers) (Detroit Tigers, coming soon)
 
 ---
 
