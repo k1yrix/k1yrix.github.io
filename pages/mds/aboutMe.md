@@ -16,14 +16,14 @@ Around 2024 is when things have changed, as I try to expand into learning Lua(u)
 ### Here's something even more interesting
 I run three unofficial sports accounts on Bluesky, and there are a few reasons for that:
 - They're not on the platform
-- They <i>are<i> on the platform, but are neglecting to post anything
-- Same as point two, but they abanonded the account
+- They <i>are</i> on the platform, but are <i>neglecting</i> to post anything
+- Same as point two, but they actually posted something then abanonded the account
 
 With the crazy neglect, I decided to start them as soon as I got used to Bluesky.
 
 The accounts I run are:
-- [@notdetroitredwings.bsky.social](https://bsky.app/notdetroitredwings) (Detroit Red Wings, 410 followers)
-- [@notnyrangers](https://bsky.app/notnyrangers) (New York Rangers, 141 followers)
+- [@notdetroitredwings.bsky.social](https://bsky.app/notdetroitredwings) (Detroit Red Wings, 443 followers)
+- [@notnyrangers](https://bsky.app/notnyrangers) (New York Rangers, 211 followers)
 - [@nottigers](https://bsky.app/nottigers) (Detroit Tigers, coming soon)
 
 ---
