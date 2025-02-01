@@ -60,6 +60,42 @@ The accounts I run are:
 
 ---
 
+## You can call me...
+I have several aliases or names I go by... (just for bragging rights)
+
+And no, they're not my real name <b>at all</b>
+
+P.S. I have several eras that I go through.
+
+### The (2016-present)
+- cvlai - Old primary (almost obsolete now)
+- cv - Old for short primary
+
+### The Kirby days (2022-present)
+- Kirby Bixlow - Primary formal, primary gender neutral formal
+- Kerby Beckers - Intellix/PrismaCord (thanks adri o7)
+- kirb - For short
+- arbixity - Secondary primary
+
+#### short description
+it just spun out in 2022. I forgot how this went, but this was in part of trying to get back to youtube after calling it quits during COVID (2021) citing major loss of motivation. the only thing I just thought are a portmeatu of "kirby" and a random suffix. 
+
+### Ashley's rise to shine (2023-2025)
+- Ashlynn Korvichski - Former fem primary formal (tertiary formal); (Sort of) Formerly Parallax/Solarium
+- avaickski - Former fem primary short
+
+#### short description
+to make this short, this basically spun up as a random fanon lore for Soarium during ~~the Black Ascension incident~~, and then it just spun up canon. Idk.
+
+### The Skyler era (2025-present)
+- Skyler Nori - Fem primary formal
+- skyynori - Fem primary short
+
+#### short description
+apparently this name spun up randomly more or so recently, and I felt like this was more fit for me, ~~especially when the times I want to start gtransitioning is coming to me quick~~.
+
+---
+
 ## Footnotes
 *The shutdown has relapsed twice: Both of which were due to the result of development shutdown.<br>
 **The reason behind the archival was due to the indefinite shutdown of Nova altogther.<br>
