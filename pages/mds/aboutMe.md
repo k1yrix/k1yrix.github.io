@@ -1,5 +1,16 @@
 # About Me
 
+## Table of contents
+- [A description](#a-description)
+    - [Here's something even more interesting](#heres-something-even-more-interesting)
+- [Here are some other interesting facts about me](#here-are-some-other-interesting-facts-about-me)
+- [My online occupations (current and former)](#my-online-occupations-current-and-former)
+- [You can call me...](#you-can-call-me)
+    - [The old days](#the-old-days-2016-present)
+    - [The Kirby days](#the-kirby-days-2022-present)
+    - [Ashley's rise to shine](#ashleys-rise-to-shine-2023-2025)
+    - [The Skyler era](#the-skyler-era-2025-present)
+
 ---
 
 ## A description
