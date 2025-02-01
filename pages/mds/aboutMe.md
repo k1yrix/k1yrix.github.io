@@ -67,7 +67,7 @@ And no, they're not my real name <b>at all</b>
 
 P.S. I have several eras that I go through.
 
-### The (2016-present)
+### The old days (2016-present)
 - cvlai - Old primary (almost obsolete now)
 - cv - Old for short primary
 
