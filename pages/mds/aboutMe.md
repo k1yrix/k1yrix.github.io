@@ -85,7 +85,7 @@ it just spun out in 2022. I forgot how this went, but this was in part of trying
 - avaickski - Former fem primary short
 
 #### short description
-to make this short, this basically spun up as a random fanon lore for Soarium during ~~the Black Ascension incident~~, and then it just spun up canon. Idk.
+to make this short, this basically spun up as a random fanon lore for Soarium during ~~the Black Ascension incident~~, and then it just spun up canon. Idk. apparently, this name died over the years and I decide to forget about it now.
 
 ### The Skyler era (2025-present)
 - Skyler Nori - Fem primary formal
