@@ -19,11 +19,6 @@ If you do want to dig through it however, it's right [here](https://kirbix12.car
 
 # Some other mentions
 
-## Version
-This is currently:
-- Version 1.0 on GitHub
-- Version 3.0 overall
-
 ## Source code
 Take a look at how I wrote this website [here](https://github.com/k1yrix/k1yrix.github.io).
 
