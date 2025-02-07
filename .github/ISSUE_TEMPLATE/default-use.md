@@ -1,9 +1,10 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Default use
+about: It is recommended to use this template if you don't want to type out everything.
+  You can create a blank one if you want.
 title: "[issue]"
 labels: bug
-assignees: ''
+assignees: k1yrix
 
 ---
 
