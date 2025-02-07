@@ -12,11 +12,11 @@ body:
   - type: checkboxes
     id: which-repo
     attributes:
+      optional: false
       label: Which repo is it coming from?
       options:
         - label: The main repo (the root)
         - label: The blog repo
-      required: true
   - type: textarea
     id: comments
     attributes:
