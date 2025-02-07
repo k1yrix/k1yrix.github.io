@@ -1,7 +1,6 @@
 ---
-name: Default use
-about: It is recommended to use this template if you don't want to type out everything.
-  You can create a blank one if you want.
+name: Default template (MD ver)
+about: You know MD, but don't want to type everything out, you should use this. If you want this to be more user friendly, you should use the YAML version.
 title: "[issue]"
 labels: bug
 assignees: k1yrix
