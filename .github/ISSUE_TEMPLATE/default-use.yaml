@@ -16,7 +16,6 @@ body:
       options:
         - label: The main repo (the root)
         - label: The blog repo
-    validations:
       required: true
   - type: textarea
     id: comments
