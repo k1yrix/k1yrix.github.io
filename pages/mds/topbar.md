@@ -3,4 +3,4 @@
 [d1]: /index.html
 [d2]: /pages/aboutMe.html
 [d3]: /pages/socials.html
-[d4]: https://k1yrix.github.io/blog
+[d4]: /blog/
