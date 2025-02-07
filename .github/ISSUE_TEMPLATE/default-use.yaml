@@ -1,4 +1,4 @@
-name: Default template
+name: (RECOMMENDED) Website issue report
 labels: "bug"
 description: It is recommended to use this template if you don't want to type out everything. (It's also user friendly) You can create a blank one if you want.
 body:

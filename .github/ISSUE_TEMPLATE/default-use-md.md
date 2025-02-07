@@ -1,5 +1,5 @@
 ---
-name: Default template (MD ver)
+name: Website issue report (MD ver)
 about: You know MD, but don't want to type everything out, you should use this. If you want this to be more user friendly, you should use the YAML version.
 title: "[issue]"
 labels: bug
