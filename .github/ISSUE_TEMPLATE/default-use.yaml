@@ -16,5 +16,10 @@ body:
       options:
         - label: The main repo (the root)
         - label: The blog repo
-      validations:
-        required: true
+    validations:
+      required: true
+  - type: textarea
+    id: comments
+    attributes:
+      label: Any comments?
+      description: This is an optional field. You are not required to fill this out.
