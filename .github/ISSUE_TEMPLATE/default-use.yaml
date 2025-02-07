@@ -9,7 +9,7 @@ body:
       description: Please describe the issue thoroughly. Include any errors and pictures/videos of the issues where possible.
     validations:
       required: true
-  - type: checkpoxes
+  - type: checkboxes
     id: which-repo
     attributes:
       label: Which repo is it coming from?
