@@ -99,12 +99,20 @@ it just spun out in 2022. I forgot how this went, but this was in part of trying
 #### short description
 to make this short, this basically spun up as a random fanon lore for Soarium during ~~the Black Ascension incident~~, and then it just spun up canon. Idk. apparently, this name died over the years and I decide to forget about it now.
 
-### The Skyler era (2025-present)
-- Skyler Nori - Fem primary formal
-- skyynori - Fem primary short
+### The Skyler era (January 2025-April 2025)
+- Skyler Nori - Former fem primary formal
+- skyynori - Former fem primary short
 
 #### short description
-apparently this name spun up randomly more or so recently, and I felt like this was more fit for me, ~~especially when the times I want to start gtransitioning is coming to me quick~~.
+apparently this name spun up randomly more or so recently, and I felt like this was more fit for me, ~~especially when the times I want to start gtransitioning is coming to me quick~~. this didn't last long before I transitioned to caroline during the evil dorito corp takeover at astral of april fools 2025.
+
+### Caroline the Nabla Spy (April 2025-present)
+- Caroline Norbrin - Fem primary formal
+- carobrin - Fem primary short
+- carofireline - gamer tag swag
+
+#### short description
+evil dorito corp spy. that's all really.
 
 ---
 
