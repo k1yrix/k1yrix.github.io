@@ -57,18 +57,19 @@ The accounts I run are:
 
 ## My online occupations (current and former)
 - Former Network Planner & Contributor @ SCR Realism Project (11/Unknown/22 - 1/24/23)
-- Former Media Department Personnel @ Nova Incorporated (3/28/23 - 8/02/23 and formerly 1/12/23 - 2/27/23*)
+- Former Media Department Personnel @ Nova Incorporated (3/28/23 - 8/02/23 and formerly 1/12/23 - 2/27/23*, held onto role until sometime in 2025)
 - Founder & Repo Lead of the former North Shore Mountains Research Site Stock Photography Project (opened since 4/21/23, archived since 8/21/23**)
 - Former Staff Coordinator then VP of Human Resources @ Softwire Community Server/CTA Roblox Group (06/13/23 - 02/01/25)
 - Advisor for CTA Roblox Group (succeeding the VPHA role, since 02/02/25)
 - (Former?***) Voice Actor/Lorewriter/Contributor @ Solarium Development (since 07/20/23)
-- Founder and lead reporter of "The Potato Times"
+- Former founder and lead reporter of "The Potato Times"
 - Founder, independent lead developer of the PTA Alternate Reality project
 - Content Moderator then Administrator @ Stepford County Railway Wiki (since 05/23/24)
 - Former Voice Actor (Contractor) @ Monolite Interactive (06/16/24 - 12/01/24) [[[well we didn't do much anyways so...]]]
-- Moderator then Administrator for Automated Transit Studio (since TBA date)
+- Moderator then Administrator for Automated Transit Studio (since idk)
 - Server Moderator ("Upper Management") @ Monolite Interactive (since 12/01/24)
-- Trial Moderator @ British Railway Wiki (since 01/03/25)
+- Moderator @ British Railway Wiki (since 01/03/25)
+- Moderator @ SCR Update Tracking (since TBA, trainee since 05/21/25)
 
 ---
 
