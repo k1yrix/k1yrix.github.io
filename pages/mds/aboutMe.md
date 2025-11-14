@@ -64,12 +64,13 @@ The accounts I run are:
 - (Former?***) Voice Actor/Lorewriter/Contributor @ Solarium Development (since 07/20/23)
 - Former founder and lead reporter of "The Potato Times"
 - Founder, independent lead developer of the PTA Alternate Reality project
-- Content Moderator then Administrator @ Stepford County Railway Wiki (since 05/23/24)
+- Former Content Moderator then Administrator @ Stepford County Railway Wiki (05/23/24 - 10/25)
 - Former Voice Actor (Contractor) @ Monolite Interactive (06/16/24 - 12/01/24) [[[well we didn't do much anyways so...]]]
 - Moderator then Administrator for Automated Transit Studio (since idk)
 - Server Moderator ("Upper Management") @ Monolite Interactive (since 12/01/24)
 - Moderator @ British Railway Wiki (since 01/03/25)
-- Moderator @ SCR Update Tracking (since TBA, trainee since 05/21/25)
+- Moderator @ SCR Update Tracking (since 05/25)
+- Moderator @ Potato Transit Authority (since 09/25)
 
 ---
 
