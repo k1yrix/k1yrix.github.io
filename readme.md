@@ -1,4 +1,4 @@
-> [WARNING]
+> [!WARNING]
 > This is the old branch for my website. This branch no longer maintained. Please keep an eye on the `main` branch for updates.
 
 # Welcome
