@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://gitlab.gnome.org/GNOME/adwaita-fonts/-/raw/main/mono/AdwaitaMono-Regular.ttf?ref_type=heads&inline=false');
+@import url('assets/fonts/adwaitamono/AdwaitaMono-Regular.ttf');
 
 /* ==userstyle==
 @name         boilerplate for dev.css
