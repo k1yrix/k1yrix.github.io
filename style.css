@@ -1,20 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('assets/fonts/adwaitamono/AdwaitaMono-Regular.ttf');
+@import url('assets/fonts/adwaitamono/AdwaitaMono-Bold.ttf');
+@import url('assets/fonts/adwaitamono/AdwaitaMono-BoldItalic.ttf');
+@import url('assets/fonts/adwaitamono/AdwaitaMono-Italic.ttf');
 
-/* ==userstyle==
-@name         boilerplate for dev.css
-@description  a template that you can modify. copied from dev.css defaults. removing lines will revert to the dev.css default, for example the font lines
-@namespace    author
-@version      1.0.0
-@author       author <author@example.com> (https://example.com)
-@homepageURL  https://example.com
-@supportURL   https://example.com/issues
-@license      MIT
-==/userstyle== */
-
-:root {
-  	--dc-font: 'Adwaita Mono', ui-sans-serif, system-ui, sans-serif;
-	  --dc-font-mono: 'Adwaita Mono', ui-monospace, monospace;
+body {
+  font-family: 'Adwaita Mono', sans-serif;
 }
 
 .white {
