@@ -8,8 +8,7 @@ body:
       label: Is this issue not related to your local network? (like firewall rules blocking certain assets from loading)
       options:
         - label: I certify that the issue is not related to my local network.
-      validations:
-        required: true 
+          required: true 
   - type: textarea
     id: describe-the-issue
     attributes:
