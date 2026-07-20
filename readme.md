@@ -1,5 +1,9 @@
 > [!WARNING]
-> The website is currently no longer viewable due for a complete website rewrite. For the old version, please visit the `main-old` branch.
+> website is currently incomplete. work in progress.
+>
+> for the old version, please visit the `main-old` branch.
+
+# k1yrix.github.io
 
 hi
 
