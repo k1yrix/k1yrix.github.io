@@ -21,3 +21,7 @@
 .white {
   filter: brightness(0) invert(1);
 }
+
+.rounder {
+	border-radius: 50%;
+}
