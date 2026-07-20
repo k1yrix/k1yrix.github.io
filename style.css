@@ -4,8 +4,40 @@
 @import url('assets/fonts/adwaitamono/AdwaitaMono-BoldItalic.ttf');
 @import url('assets/fonts/adwaitamono/AdwaitaMono-Italic.ttf');
 
-body {
-  font-family: 'Adwaita Mono', sans-serif;
+/* ==userstyle==
+@name         boilerplate for dev.css
+@description  a template that you can modify. copied from dev.css defaults. removing lines will revert to the dev.css default, for example the font lines
+@namespace    author
+@version      1.0.0
+@author       author <author@example.com> (https://example.com)
+@homepageURL  https://example.com
+@supportURL   https://example.com/issues
+@license      MIT
+==/userstyle== */
+
+:root {
+	/* font families */
+	--dc-font: 'Adwaita Mono', ui-sans-serif, system-ui, sans-serif;
+	--dc-font-mono: 'Adwaita Mono', ui-monospace, monospace;
+
+	/* colors - latte and mocha */
+	color-scheme: light dark; /* light/dark scrollbars, inputs, etc */
+	--dc-tx-1: light-dark(#4c4f69, #cdd6f4); /* primary text | Text */
+	--dc-tx-2: light-dark(#4c4f69, #cdd6f4); /* secondary text | Text */
+	--dc-bg-1: light-dark(#eff1f5, #1e1e2e); /* primary background | Base */
+	--dc-bg-2: light-dark(#e6e9ef, #181825); /* secondary background | Mantle */
+	--dc-bg-3: light-dark(#ccd0da, #313244); /* border | Surface0 */
+	--dc-lk: light-dark(#1e66f5, #89b4fa); /* link text | Blue */
+	--dc-btn: light-dark(#bcc0cc, #45475a); /* link button | Surface1 */
+	--dc-btn-hover: light-dark(
+		#ccd0da,
+		#313244
+	); /* link button hover | Surface0 */
+	--dc-ac: light-dark(#8839ef, #cba6f7); /* accent color | Mauve */
+	--dc-btn-tx: light-dark(#eff1f5, #1e1e2e); /* text over buttons | Base */
+
+	/* layout */
+	--dc-width: 48rem; /* max width */
 }
 
 .white {
