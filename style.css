@@ -1,4 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://gitlab.gnome.org/GNOME/adwaita-fonts/-/raw/main/mono/AdwaitaMono-Regular.ttf?ref_type=heads&inline=false');
+
+/* ==userstyle==
+@name         boilerplate for dev.css
+@description  a template that you can modify. copied from dev.css defaults. removing lines will revert to the dev.css default, for example the font lines
+@namespace    author
+@version      1.0.0
+@author       author <author@example.com> (https://example.com)
+@homepageURL  https://example.com
+@supportURL   https://example.com/issues
+@license      MIT
+==/userstyle== */
+
+:root {
+  	--dc-font: 'AdwaitaMono-Regular', ui-sans-serif, system-ui, sans-serif;
+	  --dc-font-mono: 'AdwaitaMono-Regular', ui-monospace, monospace;
+}
 
 .white {
   filter: brightness(0) invert(1);
