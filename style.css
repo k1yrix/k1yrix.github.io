@@ -13,8 +13,8 @@
 ==/userstyle== */
 
 :root {
-  	--dc-font: 'AdwaitaMono', ui-sans-serif, system-ui, sans-serif;
-	  --dc-font-mono: 'AdwaitaMono', ui-monospace, monospace;
+  	--dc-font: 'Adwaita Mono', ui-sans-serif, system-ui, sans-serif;
+	  --dc-font-mono: 'Adwaita Mono', ui-monospace, monospace;
 }
 
 .white {
