@@ -6,7 +6,7 @@ body:
     id: certify-not-network
     attributes:
       label: Is this issue not related to your local network? (like firewall rules blocking certain assets from loading)
-      description: Please press F12 on your keyboard and look in the console to make sure there are no errors regarding assets failing to load from remote sources. 
+#      description: Please press F12 on your keyboard and look in the console to make sure there are no errors regarding assets failing to load from remote sources. 
       options:
         - label: I certify that the issue is not related to my local network.
           required: true 
